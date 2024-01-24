@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.aura",
+    "sha256_cert_fingerprints":
+    ["20:22:3D:13:02:3D:AD:77:47:7C:4E:C9:F5:82:87:53:9F:36:CD:8C:54:98:2E:2E:D9:9A:9B:D9:32:C6:32:7D"]
+  }
+}]
