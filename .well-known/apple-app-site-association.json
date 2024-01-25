@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "83D536F33X.com.example.aura",
+        "paths": ["/verification/", "/verification/*"]
+      },
+      {
+        "appID": "83D536F33X.com.example.aura.development",
+        "paths": ["/verification/", "/verification/*"]
+      }
+    ]
+  }
+}
