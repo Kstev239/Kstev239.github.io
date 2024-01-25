@@ -4,11 +4,11 @@
     "details": [
       {
         "appID": "83D536F33X.com.example.aura",
-        "paths": ["*"]
+        "paths": ["/verification/", "/verification/*"]
       },
       {
         "appID": "83D536F33X.com.example.aura.development",
-        "paths": ["*"]
+        "paths": ["/verification/", "/verification/*"]
       }
     ]
   }
